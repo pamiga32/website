@@ -1,6 +1,6 @@
 body {
     background-image: url('https://i.pinimg.com/564x/ee/88/23/ee8823a90b225779a89d0d8ff4c99d51.jpg');
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Mali', cursive;
   }
@@ -39,4 +39,9 @@ body {
   .maps{
     border: 1px solid rgb(153, 168, 168);
     height: 300px;
+  }
+
+  .top10{
+    background-color: white;
+    padding: 10px;
   }
