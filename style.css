@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://i.pinimg.com/736x/c5/89/90/c589905003c23895e68a5524ab9031f4.jpg');
+    background-image: url('https://cutewallpaper.org/21/anime-background-scenery/Image-result-for-cherry-blossom-background-anime-in-2019-.jpg');
     background-repeat: repeat;
     background-size: cover;
     font-family: 'Mali', cursive;
@@ -46,4 +46,9 @@ body {
   .top10{
     background-color: white;
     padding: 10px;
+  }
+
+  .img10{
+    width: 190px;
+    border-radius: 10px;
   }
